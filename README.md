@@ -17,5 +17,8 @@ Flatdango moviees is a place where users can buy tickets after viewing the movie
 * Once you open it on your browser, you should see a list of movies.
 * Click on a movie to view its details.
 * Click on buy tickets to buy tickets only if the tickets are available.
+
+## Contribution
+Contributions to the Flatdango Movies project are welcome. If you find any issues or would like to propose enhancements, please submit a pull request.
 ## Licence
 The Flatdango Movies project is licensed under the MIT License.
